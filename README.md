@@ -21,6 +21,7 @@ Projets:
 - Analysis and Prediction of House prices;
 - Linkedin scrapy and analytics;
 - Real State WebScraping and Analysis;
+
 And much more;
 
 Data Scientist Profissional Certificated by ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
